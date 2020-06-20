@@ -1,0 +1,27 @@
+{
+    "name": "peterstollenwerk/aufkit",
+    "description": "Kirby AUFkit",
+    "type": "project",
+    "keywords": ["kirby", "cms", "starterkit"],
+    "homepage": "https://aufdesign.de",
+    "authors": [
+        {
+            "name": "Peter Stollenwerk",
+            "email": "peter.stollenewerk@aufdesign.de",
+            "homepage": "https://aufdesign.de"
+        }
+    ],
+    "support": {
+        "email": "peter.stollenwerk@aufdesign.de",
+        "issues": "https://github.com/peterstollenwerk/aufkit/issues",
+        "forum": "",
+        "source": "https://github.com/peterstollenwerk/aufkit"
+    },
+    "require": {
+        "php": ">=7.1.0",
+        "getkirby/cms": "^3.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
