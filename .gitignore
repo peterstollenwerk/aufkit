@@ -19,6 +19,7 @@ Icon
 
 /kirby
 /vendor
+/site/plugins/editor
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
