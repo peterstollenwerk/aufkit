@@ -2,14 +2,18 @@ Title: AUFkit
 
 ----
 
+Grid-column: custom
+
+----
+
 Text:
 
 [
     {
         "attrs": [],
         "content": "Wow",
-        "id": "_87crgegyi",
-        "type": "h3"
+        "id": "_wajh692yx",
+        "type": "blockquote"
     },
     {
         "attrs": [],
@@ -56,6 +60,17 @@ Text:
         "type": "code"
     },
     {
+        "attrs": {
+            "guid": "/pages/home/files/bildschirmfoto-2020-04-30-um-12.17.22.png",
+            "id": "home/bildschirmfoto-2020-04-30-um-12.17.22.png",
+            "ratio": 1.5692618806875631154440497994073666632175445556640625,
+            "caption": ""
+        },
+        "content": "",
+        "id": "_tis9ro84m",
+        "type": "image"
+    },
+    {
         "attrs": [],
         "content": "Do this.",
         "id": "_uf4pa9k4e",
@@ -86,17 +101,13 @@ Text:
         "type": "ol"
     },
     {
-        "attrs": {
-            "guid": "/pages/home/files/bildschirmfoto-2020-04-30-um-12.17.22.png",
-            "id": "home/bildschirmfoto-2020-04-30-um-12.17.22.png",
-            "ratio": 1.5692618806875631154440497994073666632175445556640625,
-            "caption": "The bigger the better",
-            "alt": "this is my alternative text and only visible for textreaders",
-            "link": "https://aufdesign.de",
-            "css": "start-2 span-3"
-        },
+        "attrs": [],
         "content": "",
-        "id": "_tis9ro84m",
-        "type": "image"
+        "id": "_t1zk03pzz",
+        "type": "paragraph"
     }
 ]
+
+----
+
+Doi: Yes we can
