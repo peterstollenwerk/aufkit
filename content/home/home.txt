@@ -2,7 +2,7 @@ Title: AUFkit
 
 ----
 
-Grid-column: custom
+Auf-plugin-field: custom
 
 ----
 
@@ -63,7 +63,7 @@ Text:
         "attrs": {
             "guid": "/pages/home/files/bildschirmfoto-2020-04-30-um-12.17.22.png",
             "id": "home/bildschirmfoto-2020-04-30-um-12.17.22.png",
-            "ratio": 1.5692618806875631154440497994073666632175445556640625,
+            "ratio": 1.5692618806875631,
             "caption": ""
         },
         "content": "",
@@ -107,6 +107,10 @@ Text:
         "type": "paragraph"
     }
 ]
+
+----
+
+Grid-column: custom
 
 ----
 

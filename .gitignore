@@ -21,8 +21,7 @@ Icon
 /vendor
 
 /site/plugins/editor
-/site/plugins/auf-grid/node_modules
-/site/plugins/auf-grid/.cache
+/site/plugins/auf-kirby-plugin-template/*
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
