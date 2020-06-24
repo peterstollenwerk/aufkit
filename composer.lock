@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "72f16b61827180a4f2005447ded2d416",
+    "content-hash": "8abbae8358ba75f3be7e6370e8e8c01f",
     "packages": [
         {
             "name": "claviska/simpleimage",
@@ -609,21 +609,26 @@
             "time": "2018-12-21T02:25:09+00:00"
         },
         {
-            "name": "peterstollenwerk/auf-kirby-plugin-template",
-            "version": "0.0.5",
+            "name": "peterstollenwerk/auf-grid",
+            "version": "0.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/peterstollenwerk/auf-kirby-plugin-template.git",
-                "reference": "1e5e85c50ab9f0a9ae2fbeb98464f4791957c611"
+                "url": "https://github.com/peterstollenwerk/auf-grid.git",
+                "reference": "7e39463d0f5ded392ae200f3b9af0bce8dae2fe9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/peterstollenwerk/auf-kirby-plugin-template/zipball/1e5e85c50ab9f0a9ae2fbeb98464f4791957c611",
-                "reference": "1e5e85c50ab9f0a9ae2fbeb98464f4791957c611",
+                "url": "https://api.github.com/repos/peterstollenwerk/auf-grid/zipball/7e39463d0f5ded392ae200f3b9af0bce8dae2fe9",
+                "reference": "7e39463d0f5ded392ae200f3b9af0bce8dae2fe9",
                 "shasum": ""
             },
             "require": {
                 "getkirby/composer-installer": "^1.1"
+            },
+            "require-dev": {
+                "getkirby/cms": "^3.3",
+                "phpunit/phpunit": "^7.5",
+                "spatie/phpunit-watcher": "^1.10"
             },
             "type": "kirby-plugin",
             "notification-url": "https://packagist.org/downloads/",
@@ -636,8 +641,8 @@
                     "email": "peter.stollenwerk@aufdesign.de"
                 }
             ],
-            "description": "auf kirby plugin template",
-            "time": "2020-06-23T09:20:30+00:00"
+            "description": "auf kirby grid plugin ",
+            "time": "2020-06-24T09:15:34+00:00"
         },
         {
             "name": "phpmailer/phpmailer",

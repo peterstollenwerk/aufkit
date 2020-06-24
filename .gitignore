@@ -21,7 +21,7 @@ Icon
 /vendor
 
 /site/plugins/editor
-/site/plugins/auf-kirby-plugin-template/*
+/site/plugins/auf-grid
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
