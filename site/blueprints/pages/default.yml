@@ -2,9 +2,9 @@ title: Default Page
 preset: page
 fields:
   
-  auf_plugin_field:
+  grid_column:
     label: Auf Plugin Field
-    type: aufpluginfield
+    type: grid_column
   
   text:
     label: Text
