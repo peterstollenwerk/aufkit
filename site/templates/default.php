@@ -1,5 +1,5 @@
 <h1><?= $page->title() ?></h1>
 
-auf_plugin_field: <?= $page->auf_plugin_field() ?>
+grid_column: <?= $page->grid_column() ?>
 
 <?= $page->text()->kirbytext() ?>

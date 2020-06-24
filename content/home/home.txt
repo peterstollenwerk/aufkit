@@ -2,7 +2,7 @@ Title: AUFkit
 
 ----
 
-Auf-plugin-field: custom
+Grid-column: aside
 
 ----
 
@@ -110,7 +110,7 @@ Text:
 
 ----
 
-Grid-column: custom
+Auf-plugin-field: custom
 
 ----
 
